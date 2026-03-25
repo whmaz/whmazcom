@@ -1,2 +1,4 @@
-# whmazcom
-bug report, feature request. version 1.0.0
+# WHMAZ - Web Hosting Billing & Automation Platform
+bug report, feature request. 
+
+# version 1.0.0
