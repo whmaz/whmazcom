@@ -1,7 +1,7 @@
 # WHMAZ
 
 <p align="center">
-  <img src="[https://whmaz.com/assets/images/logo.png](https://whmaz.com/img/logo.png)" alt="WHMAZ Logo" width="180">
+  <img src="https://whmaz.com/img/logo.png" alt="WHMAZ Logo" width="180">
 </p>
 
 <p align="center">
