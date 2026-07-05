@@ -111,9 +111,12 @@ https://whmaz.com/demo.php
 
 # Screenshots
 
-Visit the official website to explore screenshots and product features.
+Visit the official website to explore more screenshots and product features. https://whmaz.com/#screenshots
 
-https://whmaz.com
+<p align="center">
+  <img src="https://whmaz.com/screenshots/admin-dashboard.png" alt="WHMAZ Admin Dashboard" width="48%">
+  <img src="https://whmaz.com/screenshots/domain-search.png" alt="WHMAZ Domain Search" width="48%">
+</p>
 
 ---
 
