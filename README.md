@@ -1,50 +1,87 @@
 # WHMAZ
 
-**Modern Web Hosting Billing & Automation Platform**
+<p align="center">
+  <img src="https://whmaz.com/assets/images/logo.png" alt="WHMAZ Logo" width="180">
+</p>
 
-WHMAZ is a powerful and lightweight hosting automation platform designed for web hosting providers, VPS providers, domain resellers, and SaaS businesses. It helps automate billing, client management, provisioning, invoicing, support, and payment processing through a clean and modern interface.
+<p align="center">
+  <strong>Modern Web Hosting Billing & Automation Platform</strong>
+</p>
 
-🌐 Website: https://whmaz.com
+<p align="center">
+  Official website repository for WHMAZ.
+</p>
 
 ---
 
-## ✨ Features
+## 🌐 Quick Links
+
+| Resource | Link |
+|----------|------|
+| 🌍 Website | https://whmaz.com |
+| 🚀 Live Demo | https://whmaz.com/demo.php |
+| 📚 Documentation | https://whmaz.com/documentation.php |
+| ✨ Features | https://whmaz.com/features.php |
+| 💰 Pricing | https://whmaz.com/pricing.php |
+| ❓ FAQ | https://whmaz.com/faq.php |
+| 👨‍💻 About Us | https://whmaz.com/about-us.php |
+
+---
+
+# About WHMAZ
+
+WHMAZ is a modern web hosting billing and automation platform designed for hosting providers, VPS providers, domain registrars, cloud businesses, and SaaS companies.
+
+It helps automate the complete hosting business workflow—from client registration and invoicing to service provisioning, domain management, payment processing, and customer support.
+
+WHMAZ focuses on performance, security, simplicity, and ease of use while providing a clean and modern user experience.
+
+---
+
+# Key Features
 
 - Client Management
-- Automated Billing & Invoicing
-- Service Provisioning
-- Domain Management
+- Automated Billing
+- Invoice Generation
 - Payment Gateway Integration
+- Domain Management
+- Hosting Service Management
+- VPS & Server Management
 - Support Ticket System
-- Multi-Currency Support
-- Tax & Discount Management
 - Email Notifications
-- Reports & Analytics
+- Tax Management
+- Coupon & Promotions
+- Multi-Currency Support
 - REST API
-- Secure Authentication
 - Responsive Admin Panel
+- Secure Authentication
+- Reporting & Analytics
+- Easy Installation
+- Modern User Interface
 
 ---
 
-## Why WHMAZ?
+# Why Choose WHMAZ?
 
-WHMAZ is built to provide a modern alternative for hosting businesses looking for a fast, secure, and user-friendly automation platform.
+✅ Lightweight
 
-✔ Modern UI
+✅ Fast Performance
 
-✔ Lightweight Architecture
+✅ Modern UI/UX
 
-✔ Easy Deployment
+✅ Secure Architecture
 
-✔ Developer Friendly
+✅ Easy to Configure
 
-✔ High Performance
+✅ Developer Friendly
 
-✔ Regular Updates
+✅ Mobile Responsive
+
+✅ Regular Updates
 
 ---
 
-## Technology Stack
+# Technology Stack
 
 - PHP
 - MySQL
@@ -56,54 +93,159 @@ WHMAZ is built to provide a modern alternative for hosting businesses looking fo
 
 ---
 
-## Documentation
+# Documentation
 
-Documentation is available on our website.
+Complete documentation is available on our website.
+
+https://whmaz.com/documentation.php
+
+---
+
+# Live Demo
+
+Experience WHMAZ before purchasing.
+
+https://whmaz.com/demo.php
+
+---
+
+# Screenshots
+
+Visit the official website to explore screenshots and product features.
 
 https://whmaz.com
 
 ---
 
-## Demo
+# Installation
 
-Visit
+This repository contains the official website source code.
+
+The commercial WHMAZ application is distributed separately.
+
+For product installation instructions, please visit:
+
+https://whmaz.com/documentation.php
+
+---
+
+# Reporting Issues
+
+Found a bug on the website?
+
+Please open a GitHub Issue with:
+
+- Description
+- Steps to reproduce
+- Browser
+- Operating System
+- Screenshots (if applicable)
+
+---
+
+# Feature Requests
+
+We welcome ideas and feature suggestions.
+
+Open a GitHub Issue describing:
+
+- Your use case
+- Expected behavior
+- Possible improvements
+
+---
+
+# Security
+
+If you discover a security vulnerability, **please do not open a public issue.**
+
+Instead, contact us privately through our website.
+
+---
+
+# Roadmap
+
+Upcoming improvements include:
+
+- More Payment Gateways
+- Additional Automation Modules
+- Enhanced REST API
+- New Hosting Integrations
+- Improved Client Dashboard
+- More Developer Resources
+
+---
+
+# Community
+
+Stay connected with WHMAZ.
+
+Website
 
 https://whmaz.com
 
-to explore features and pricing.
+Documentation
+
+https://whmaz.com/documentation.php
+
+Demo
+
+https://whmaz.com/demo.php
 
 ---
 
-## Support
-
-If you have any questions or feature requests, please open a GitHub Issue.
-
----
-
-## Contributing
-
-We welcome bug reports, feature suggestions, and documentation improvements.
-
----
-
-## Security
-
-If you discover a security vulnerability, please report it privately instead of creating a public issue.
-
----
-
-## License
+# License
 
 Copyright © WHMAZ.
 
 All rights reserved.
 
-This repository is intended for project information, issue tracking, and community engagement. The commercial software is distributed under the WHMAZ License.
+This repository contains the official website source code and project information.
+
+The WHMAZ software is commercial software and is licensed separately under the WHMAZ License.
 
 ---
 
-## Connect
+# Keywords
 
-Website: https://whmaz.com
+Web Hosting
 
-GitHub: https://github.com/whmaz
+Hosting Billing
+
+Hosting Automation
+
+Billing Software
+
+WHMCS Alternative
+
+PHP Billing Software
+
+Hosting Management
+
+Domain Management
+
+Client Management
+
+Invoice Automation
+
+Payment Gateway
+
+SaaS
+
+Cloud Hosting
+
+Web Hosting Software
+
+---
+
+## ⭐ Support WHMAZ
+
+If you find WHMAZ useful, please consider giving this repository a **Star ⭐**.
+
+Your support helps improve the project and grow the WHMAZ community.
+
+---
+
+<p align="center">
+Made with ❤️ by the WHMAZ Team
+</p>
